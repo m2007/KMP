@@ -4,15 +4,16 @@ body {
 
 input {
     user-select: unset !important;
-    margin: 10px 0 10px 0;
     padding-left: 2px;
     border-radius: 5px;
     border: 1px solid #cacaca;
     width: 500px;
     outline: none;
+	margin-bottom: 10px;
 }
 
 #btn {
+	margin: 0 10px 10px 0;
     float: left;
     background-color: #a3b3eb;
     padding-top: 7px;
@@ -25,7 +26,6 @@ input {
 
 #dv-answ {
     padding-left: 7px;
-    margin-left: 10px;
     padding-top: 7px;
     float: left;
     border-radius: 5px;
