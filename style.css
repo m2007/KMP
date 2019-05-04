@@ -1,0 +1,35 @@
+body {
+    user-select: none;
+}
+
+input {
+    user-select: unset !important;
+    margin: 10px 0 10px 0;
+    padding-left: 2px;
+    border-radius: 5px;
+    border: 1px solid #cacaca;
+    width: 500px;
+    outline: none;
+}
+
+#btn {
+    float: left;
+    background-color: #a3b3eb;
+    padding-top: 7px;
+    text-align: center;
+    width: 100px;
+    height: 25px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#dv-answ {
+    padding-left: 7px;
+    margin-left: 10px;
+    padding-top: 7px;
+    float: left;
+    border-radius: 5px;
+    background-color: #ddd;
+    width: 405px;
+    height: 25px;
+}
